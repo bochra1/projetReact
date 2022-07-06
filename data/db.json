@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "title": "my first blog",
+      "body": "why do we use it it a long taatt tfgg fg ......",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "opening party",
+      "body": "why do we use it.. it is  a long established..",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "klklk",
+      "body": " gyuyu",
+      "author": "yoshi",
+      "id": 3
+    },
+    {
+      "title": "ghj",
+      "body": "jhkjkkk ",
+      "author": "yoshi",
+      "id": 4
+    },
+    {
+      "title": "bbbb",
+      "body": " aaaaa",
+      "author": "mario",
+      "id": 5
+    },
+    {
+      "title": "ggggggg",
+      "body": " ui",
+      "author": "yoshi",
+      "id": 6
+    },
+    {
+      "title": "aa",
+      "body": " kkkk",
+      "author": "mario",
+      "id": 7
+    },
+    {
+      "title": "oooo",
+      "body": " pppp",
+      "author": "mario",
+      "id": 8
+    }
+  ]
+}
